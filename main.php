@@ -40,7 +40,7 @@ if (isset($_SESSION['user_id'])) { ?>
         <a href="register.php">Register</a>
     </button>
     <button>
-        <a href="login.php">Loogin</a>
+        <a href="loogin.php">Loogin</a>
     </button>
 
     <?php
